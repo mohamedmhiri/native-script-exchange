@@ -1,0 +1,108 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-telerik-ui-pro@^1.6.1",
+        "scope": null,
+        "escapedName": "nativescript-telerik-ui-pro",
+        "name": "nativescript-telerik-ui-pro",
+        "rawSpec": "^1.6.1",
+        "spec": ">=1.6.1 <2.0.0",
+        "type": "range"
+      },
+      "/home/mohamed/Documents/development/javascript/native-script/finance/exchange"
+    ]
+  ],
+  "_from": "nativescript-telerik-ui-pro@>=1.6.1 <2.0.0",
+  "_id": "nativescript-telerik-ui-pro@1.6.1",
+  "_inCache": true,
+  "_location": "/nativescript-telerik-ui-pro",
+  "_nodeVersion": "6.9.2",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-telerik-ui-pro-1.6.1.tgz_1487781185044_0.7518577626906335"
+  },
+  "_npmUser": {
+    "name": "dginev",
+    "email": "deyan.ginev@telerik.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-telerik-ui-pro@^1.6.1",
+    "scope": null,
+    "escapedName": "nativescript-telerik-ui-pro",
+    "name": "nativescript-telerik-ui-pro",
+    "rawSpec": "^1.6.1",
+    "spec": ">=1.6.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-telerik-ui-pro/-/nativescript-telerik-ui-pro-1.6.1.tgz",
+  "_shasum": "718256ebe0fd1cef27c65a4202ae526f387ee117",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-telerik-ui-pro@^1.6.1",
+  "_where": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange",
+  "author": {
+    "name": "Progress AD"
+  },
+  "dependencies": {},
+  "description": "Telerik UI for NativeScript Pro is an upgrade of Telerik UI for NativeScript - a cross-platform UI components suite based on the native iOS and Android libraries provided by Telerik.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "718256ebe0fd1cef27c65a4202ae526f387ee117",
+    "tarball": "https://registry.npmjs.org/nativescript-telerik-ui-pro/-/nativescript-telerik-ui-pro-1.6.1.tgz"
+  },
+  "files": [
+    "**/*.js",
+    "**/*.metadata.json",
+    "**/*.d.ts",
+    "platforms/",
+    "!hooks/"
+  ],
+  "keywords": [
+    "nativescript",
+    "ui",
+    "listview",
+    "sidedrawer",
+    "chart",
+    "calendar",
+    "dataform",
+    "gauges"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "maintainers": [
+    {
+      "name": "amiorkov",
+      "email": "v.amiorkov@gmail.com"
+    },
+    {
+      "name": "dginev",
+      "email": "deyan.ginev@telerik.com"
+    },
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    }
+  ],
+  "name": "nativescript-telerik-ui-pro",
+  "nativescript": {
+    "ios": "2.5.0",
+    "android": "2.5.0"
+  },
+  "optionalDependencies": {},
+  "readme": "# Welcome to Telerik UI for NativeScript Pro\n[Telerik UI for NativeScript Pro](http://www.telerik.com/nativescript-ui) a suite of  UI components targeting the NativeScript platform. The controls are based on the familiar [Telerik UI for Android](http://www.telerik.com/android-ui) and [Telerik UI for iOS](http://www.telerik.com/ios-ui) suites and expose common API for utilizing these suites Android and iOS cross-platform development. \n\nThe suite offers the following two components:\n\n### Calendar\n\n- Different view modes: week, month, year\n- Appointments support\n- Inline events support\n- Selection modes: single, multiple, range\n- Animated transitions between views\n- Styling customizations support\n\n<img src=\"http://www.telerik.com/sfimages/default-source/blogs/ui-for-nativescript/calendar-nativescript-npm.png?Status=Temp&sfvrsn=2\">\n\n### Chart\n\n- 13 chart types\n- Numeric, categorical, date-time axes\n- Styling customizations\n- Interaction: pan & zoom, selection\n- Annotations: line, plot\n- Trackball\n\n<img src=\"http://www.telerik.com/sfimages/default-source/blogs/ui-for-nativescript/chart-nativescript-npm.png?Status=Temp&sfvrsn=2\">\n\n### DataForm\n\nDataForm for NativeScript allows you to easily build various fill-in forms such as: registration, login, data entry, etc. The controls takes a data object and automatically displays the appropriate editors for the properties of this object, so that the end-user can set the values of these properties with ease. The features at a glance:\n\n- Creates fill-in forms automatically\n- Support for custom editors\n- Validation rules with feedback messages\n- Different commit modes \n- Collapsible groups\n- Read-only mode\n\n<img src=\"http://www.telerik.com/sfimages/default-source/blogs/ui-for-nativescript/dataform-nativescript-npm.png?Status=Temp&sfvrsn=2\">\n\n### ListView\n\nListView for NativeScript is suitable for virtually every mobile application. It’s native underneath which allows for ultimate performance on both iOS and Android. It’s features will enhance your app in many ways. Here they are:\n\n- Pull-to-refresh\n- Load-on-demand\n- Swipe cell to execute\n- Header and footer\n- Item animations\n- Wrap and grid layouts\n- Item reorder\n- Styling customizations support through code and CSS\n\n<img src=\"http://www.telerik.com/sfimages/default-source/blogs/ui-for-nativescript/listview-nativescript.png?Status=Temp&sfvrsn=2\">\n\n### SideDrawer\n\n- Different animated transition modes: Fade, Push, Reveal, Reverse Slide Out, Scale Down Pusher, Scale Up, Slide Along, Slide In on Top\n- Ability to appear from all four sides of the screen\n- Support for custom content\n\n<img src=\"http://www.telerik.com/sfimages/default-source/blogs/ui-for-nativescript/sidedrawer-nativescript.png?Status=Temp&sfvrsn=2\">\n\n## Getting started\nFor more information on how to use Telerik UI for NativeScript, please visit the documentation website here [http://docs.telerik.com/devtools/nativescript-ui](http://docs.telerik.com/devtools/nativescript-ui).\n\nYou can also take a look at the SDK samples application which is available on GitHub and contains simple scenarios covering all features of the components in Telerik UI for NativeScript: [http://www.github.com/telerik/nativescript-ui-samples](http://www.github.com/telerik/nativescript-ui-samples).\n\n\n## Trial vs. Non-trial version\n\nThe current plugin offers a Trial version of the UI for NativeScript Pro product. This is a fully functional version that occassionally displays a Trial message. In order to obtain a fully functional version withoyt a Trial message, please consider purchasing [UI for NativeScript Pro](http://www.telerik.com/purchase/nativescript-ui). This will also you to submit private support tickets with 24h guaranteed response time from the same guys who build the product.\n\n\n## Support\n\nThe Trial version downloaded from npmjs comes with no support. If you need technical assistance from the same guys that built the product, you need to get a free Trial from [www.telerik.com](http://www.telerik.com/nativescript-ui). This will allow you to post questions on your forums and open private support tickets with a 72h response time.\n\n\n## License\n\nTelerik UI for NativeScript Pro (Trial) is licensed under the [Telerik End User License Agreement for UI for NativeScript Pro (Trial version)](http://www.telerik.com/purchase/license-agreement/ui-for-nativescript-pro-trial).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/telerik/nativescript-ui-samples.git"
+  },
+  "scripts": {
+    "postinstall": "node ./scripts/email-prompt.js dev_uins_free",
+    "preinstall": "node ./scripts/eula-prompt.js"
+  },
+  "version": "1.6.1"
+}

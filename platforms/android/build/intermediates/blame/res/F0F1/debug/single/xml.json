@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/res/merged/F0F1/debug/xml/chart_palettes_dark_selected.xml",
+        "source": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.222-nstrial-release/res/xml/chart_palettes_dark_selected.xml"
+    },
+    {
+        "merged": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/res/merged/F0F1/debug/xml/chart_palettes_default_light.xml",
+        "source": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.222-nstrial-release/res/xml/chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/res/merged/F0F1/debug/xml/chart_palettes_default_dark.xml",
+        "source": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.222-nstrial-release/res/xml/chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/res/merged/F0F1/debug/xml/chart_palettes_light_selected.xml",
+        "source": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.222-nstrial-release/res/xml/chart_palettes_light_selected.xml"
+    }
+]

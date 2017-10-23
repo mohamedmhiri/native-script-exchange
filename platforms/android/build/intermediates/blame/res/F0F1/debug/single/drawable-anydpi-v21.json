@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/mohamed/Documents/development/javascript/native-script/finance/exchange/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]
